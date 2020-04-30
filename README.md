@@ -1,7 +1,10 @@
-# dbd_ssl_bypass
-requirements:
-mmap, psutil
+dbd_ssl_bypass
 Pinning ssl bypass for Dead by Daylight
+
+requirements:
+mmap
+psutil
+
 How it works:
 1) Write game directory in path file;
 2) Open start.py;

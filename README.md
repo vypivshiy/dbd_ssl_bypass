@@ -9,4 +9,4 @@ How it works:
 3) Open DeadByDaylight;
 4) Wait resplace file process;
 5) Done, you can modify DbD's requests!
-6) Finnaly, when you close the game, press enter to restore the file
+6) Finally, when you close the game, press enter to restore the file

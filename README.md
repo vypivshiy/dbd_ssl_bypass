@@ -2,9 +2,9 @@ dbd_ssl_bypass
 Pinning ssl bypass for Dead by Daylight
 
 requirements:
-python 3.6+
-pip install mmap
-pip installpsutil
+- python 3.6+
+- pip install mmap
+- pip installpsutil
 
 How it works:
 - Write game directory in path file;

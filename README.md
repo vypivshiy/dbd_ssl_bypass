@@ -1,15 +1,19 @@
 dbd_ssl_bypass
 Pinning ssl bypass for Dead by Daylight
 
+video demonstation how to work (file compiled to .exe):
+https://youtu.be/5Qji2XyrZ5U
+
 requirements:
-mmap
-psutil
+python 3.6+
+pip install mmap
+pip installpsutil
 
 How it works:
-1) Write game directory in path file;
-2) Open start.py;
-3) Open anything web debugging proxy tool;
-3) Open DeadByDaylight;
-4) Wait resplace file process;
-5) Done, you can modify DbD's requests!
-6) Finally, when you close the game, press enter to restore the file
+- Write game directory in path file;
+- Open start.py;
+- Open anything web debugging proxy tool;
+- Open DeadByDaylight;
+- Wait resplace file process;
+- Done, you can modify DbD's requests!
+- Finally, when you close the game, press enter to restore the file

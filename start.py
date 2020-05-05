@@ -83,14 +83,14 @@ if __name__ == '__main__':
                 break
             sleep(0.3)
         replace_bytes()
-        print("Done!")
+        print("Done!"
+              "\nWait close game")
         while True:
-            try:
-                input("Press Enter for restore file, you must close game!")
+            names = process_list()
+            if "EasyAntiCheat" not in names:
                 restore_bytes()
                 break
-            except PermissionError:
-                print("You must close game!")
+            sleep(5)
         print("File restored!")
         input("Press Enter for exit")
     else:

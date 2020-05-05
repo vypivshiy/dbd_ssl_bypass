@@ -10,7 +10,7 @@ Coded by Vypivshiy;
 
 def open_path():
     try:
-        file = open("path", 'r')
+        file = open("path", 'r', encoding="utf8")
         path = file.read()
         path = path.strip()
         file.close()
@@ -20,7 +20,7 @@ def open_path():
         return path
     except FileNotFoundError:
         print("Error, file 'path' not found!")
-        file = open("path", "w")
+        file = open("path", "w", encoding="utf8")
         file.close()
         return None
 

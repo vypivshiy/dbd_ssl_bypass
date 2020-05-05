@@ -11,8 +11,8 @@ Pinning ssl bypass for Dead by Daylight
 - Open start.py
 - Open anything web debugging proxy tool
 - Open DeadByDaylight
-- Wait resplace file process
-- Done, you can modify DbD's requests!
+- Wait replace file process
+- Done, you can modify DbD requests!
 - Finally, when you close the game, ~press enter to restore the file~ file will be restored automatically
 
 - 01.05.20 release source

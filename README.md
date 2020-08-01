@@ -17,6 +17,7 @@ Pinning ssl bypass for Dead by Daylight
 
 - 01.05.20 release source
 - 05.05.20 add auto restore file
+- 01.08.20 Dead by Daylight 4.1.0 bypass still working!
 
 video demonstation how to work (file compiled to .exe):
 https://youtu.be/5Qji2XyrZ5U

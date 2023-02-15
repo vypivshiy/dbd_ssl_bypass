@@ -1,3 +1,5 @@
+# ATTENTION! **This bypass doesn't work!!!** This project is archived for history!
+
 # dbd_ssl_bypass
 Pinning ssl bypass for Dead by Daylight
 
